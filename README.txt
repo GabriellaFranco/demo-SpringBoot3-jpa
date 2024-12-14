@@ -1,5 +1,4 @@
-Este projeto é uma aplicação desenvolvida com Spring Boot 3 e JPA para gerenciar pedidos de usuários, abrangendo o registro de novos pedidos, atualização do status de pagamento
- e o gerenciamento de produtos e suas categorias. 
+Este projeto é uma aplicação desenvolvida com Spring Boot 3 e JPA para gerenciar pedidos de usuários, abrangendo o registro de novos pedidos, atualização do status de pagamento e o gerenciamento de produtos e suas categorias. 
 
 Tecnologias Utilizadas:
 
@@ -20,8 +19,7 @@ Principais Funcionalidades:
 
 ===================================================================================================================
 
-This project is an application developed with Spring Boot 3 and JPA to manage user orders, including registering new orders, updating payment statuses, and managing products 
-and product categories.
+This project is an application developed with Spring Boot 3 and JPA to manage user orders, including registering new orders, updating payment statuses, and managing products and product categories.
 
 Technologies Used:
 
